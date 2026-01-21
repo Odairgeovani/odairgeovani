@@ -1,8 +1,8 @@
-<h2> ✌🏼 Olá eu sou a Odair Geovani, Desenvolvedor Front-end e Mobile! </h2>
+<h2> ✌🏼 Olá eu sou a Odair Geovani, Desenvolvedor Front-end e Designer UI/UX! </h2>
 
   --------------------------------------------------------------------------
 
-<h4> 📱 Desenvolvo Apps que ajudam a mudar o dia a dia das pessoas </h4>
+<h4> 📱 Desenvolvo soluções que ajudam a mudar o dia a dia das pessoas </h4>
 
   --------------------------------------------------------------------------
 
