@@ -1,4 +1,4 @@
-<h2> ✌🏼 Olá eu sou a Odair Geovani, Desenvolvedor de Softwares </h2>
+<h2> ✌🏼 Olá eu sou a Odair Geovani, Desenvolvedor de Software </h2>
 
   --------------------------------------------------------------------------
 
