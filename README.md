@@ -1,4 +1,4 @@
-<h2> ✌🏼 Olá eu sou a Odair Geovani, Desenvolvedor Front-end e Designer UI/UX! </h2>
+<h2> ✌🏼 Olá eu sou a Odair Geovani, Desenvolvedor de Softwares </h2>
 
   --------------------------------------------------------------------------
 
